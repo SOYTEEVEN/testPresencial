@@ -16,7 +16,7 @@
         <div style="width: 100%; height:24% ; float: left; background-color: rgb(40, 50, 82);">
             <div style="width: 5%; height:100% ; float: left; background-color: rgb(40, 50, 82);"></div>
             <a href="index.html" style="text-decoration: none;"><button style="background-color: rgb(40, 50, 82); border: 0px; color: white; font-size: 15px; padding: 10px 15px; cursor: pointer;">Inicio</button></a>
-            <a href="noticias.html" style="text-decoration: none;"><button style="background-color: rgb(40, 50, 82); border: 0px; color: white; font-size: 15px; padding: 10px 15px; cursor: pointer;">Noticias</button></a>
+            <a href="noticias.php" style="text-decoration: none;"><button style="background-color: rgb(40, 50, 82); border: 0px; color: white; font-size: 15px; padding: 10px 15px; cursor: pointer;">Noticias</button></a>
             <a href="nosotros.html" style="text-decoration: none;"><button style="background-color: rgb(40, 50, 82); border: 0px; color: white; font-size: 15px; padding: 10px 15px; cursor: pointer;">Nosotros</button></a>
             <a href="contacto.html" style="text-decoration: none;"><button style="background-color: rgb(40, 50, 82); border: 0px; color: white; font-size: 15px; padding: 10px 15px; cursor: pointer;">Contacto</button></a>
         </div>
